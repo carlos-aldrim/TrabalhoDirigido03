@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.1",
+    "@types/node": "^20.9.2",
+    "prisma": "^5.6.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.4.1",
+    "@prisma/client": "^5.6.0",
+    "crypto-js": "^4.2.0",
+    "fastify": "^4.24.3",
+    "tsx": "^4.1.4"
+  }
+}
