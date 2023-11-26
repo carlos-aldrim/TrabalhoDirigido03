@@ -28,7 +28,13 @@
 
 ## Capturas de Tela
 
-
+![image](https://github.com/carlos-aldrim/TrabalhoDirigido03/assets/94694859/d5402378-298c-4d18-be15-c42e5cc7a0d8)
+![image](https://github.com/carlos-aldrim/TrabalhoDirigido03/assets/94694859/21d7d9c6-1eff-4782-abdf-95bbf63e75c5)
+![image](https://github.com/carlos-aldrim/TrabalhoDirigido03/assets/94694859/4b2d8354-dc51-4e7e-9c61-c7ae0ba2c672)
+![image](https://github.com/carlos-aldrim/TrabalhoDirigido03/assets/94694859/83fca860-c0ad-48bd-9f19-b536915156b9)
+![image](https://github.com/carlos-aldrim/TrabalhoDirigido03/assets/94694859/f186c7f8-4222-4fca-8996-08ca68a6cf86)
+![image](https://github.com/carlos-aldrim/TrabalhoDirigido03/assets/94694859/be2f9917-76c4-438d-a667-86181ea690d3)
+![image](https://github.com/carlos-aldrim/TrabalhoDirigido03/assets/94694859/69c276fb-0804-49dc-a5ca-0a93aa9ec59a)
 
 ## Tecnologias Utilizadas
 
